@@ -21,7 +21,7 @@ enables businesses to optimize their inventory control.
 |------------|------------------------------------------|
 | Python     | Core programming language                |
 | Tkinter    | GUI framework for desktop applications   |
-| SQLite     | Lightweight relational database (file-based) |
+| MySQL     | Lightweight relational database (file-based) |
 
 ---
 
