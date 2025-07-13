@@ -1,7 +1,8 @@
 # 🗃️ Simple Inventory Management System
 
-This is a basic Inventory Management System built with **Python**, **Tkinter**, and **SQLite**.  
-It provides a user-friendly desktop interface for businesses to manage and track inventory in real-time.
+This is a basic Inventory Management System built with **Python**, **Tkinter**, and **SQL**.  
+It provides a user-friendly platform-based desktop application with advanced features that 
+enables businesses to optimize their inventory control.
 
 ---
 
@@ -25,8 +26,8 @@ It provides a user-friendly desktop interface for businesses to manage and track
 ---
 
 ## 📁 Project Structure
-
-Simple-Inventory-System/
+```
+Simple-Inventory-System
 │
 ├── index.py # Main application file (Tkinter UI and logic)
 ├── pythontut.db # SQLite database file for inventory data
