@@ -33,5 +33,3 @@ Simple-Inventory-System
 ├── pythontut.db # SQLite database file for inventory data
 ├── .gitattributes # Git metadata
 
----
-
